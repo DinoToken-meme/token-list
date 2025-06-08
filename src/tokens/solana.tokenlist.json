@@ -4,7 +4,7 @@
   "symbol": "DINO",
   "name": "DinoToken",
   "decimals": 4,
-  "logoURI": "https://raw.githubusercontent.com/YOUR_GITHUB_REPO/token-list/main/assets/mainnet/GiRh9BYVHfu6xE6KtjwQB83aFHFcsgqPF8xXcFtzC6z7.png",
+  "logoURI": "https://raw.githubusercontent.com/DinoToken-meme/token-list/main/assets/mainnet/GiRh9BYVHfu6xE6KtjwQB83aFHFcsgqPF8xXcFtzC6z7.png",
   "tags": ["utility-token", "meme"],
   "extensions": {
     "website": "https://x.com/dinotoken789",
